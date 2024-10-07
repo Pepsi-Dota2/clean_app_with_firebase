@@ -1,0 +1,1 @@
+enum OpenShift { TRUE, FALSE }
